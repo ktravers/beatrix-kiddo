@@ -47,7 +47,7 @@ group :development, :test do
 end
 
 group :development do
-  gem 'better_errors', '2.1.1'
+  gem 'better_errors', '2.8.0'
   gem 'active_record_query_trace', '1.4'
   gem 'letter_opener_web', '~> 1.2.0'
 end
